@@ -1,1 +1,1 @@
-# GAN VAE on Fashion Digits MNIST
+# GAN and VAE on Fashion & Digits MNIST
